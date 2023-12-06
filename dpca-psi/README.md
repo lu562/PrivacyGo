@@ -142,14 +142,6 @@ bash receiver_test.sh
 - IPCL does not support GNU G++ 11.0 and above. [(issue #27)](https://github.com/intel/pailliercryptolib/issues/27#issuecomment-1320753239).
 - `IPCLConfig.cmake` resides in a wrong directory without installing IPCL. [(issue #69)](https://github.com/intel/pailliercryptolib/issues/69).
 
-## License
-
-DPCA-PSI is Apache-2.0 License licensed, as found in the [LICENSE](../LICENSE) file.
-
-## Disclaimers
-
-This software is not an officially supported product of TikTok. It is provided as-is, without any guarantees or warranties, whether express or implied.
-
 ## Reference
 [1] Meadows, Catherine. "A more efficient cryptographic matchmaking protocol for use in the absence of a continuously available third party." 1986 IEEE Symposium on Security and Privacy. IEEE, 1986.
 
